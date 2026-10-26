@@ -1,0 +1,11 @@
+127.0.0.1 - - [29/Oct/2025:00:10:13 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [29/Oct/2025:00:10:15 +0530] "GET /sms/index.jsp HTTP/1.1" 200 556
+0:0:0:0:0:0:0:1 - - [29/Oct/2025:00:10:15 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [29/Oct/2025:00:10:21 +0530] "GET /sms/viewall HTTP/1.1" 200 1319
+0:0:0:0:0:0:0:1 - - [29/Oct/2025:00:11:02 +0530] "GET /sms/save?id=6&name=naveen&email=naven%40gfmaa+&phoneno=045577644 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [29/Oct/2025:00:11:29 +0530] "GET /sms/viewall HTTP/1.1" 200 1542
+0:0:0:0:0:0:0:1 - - [29/Oct/2025:00:11:35 +0530] "GET /sms/update_page?id=6 HTTP/1.1" 200 463
+0:0:0:0:0:0:0:1 - - [29/Oct/2025:00:11:54 +0530] "GET /sms/update?id=6&name=naveen&email=naven%40gfmaa+&phoneno=9876543186 HTTP/1.1" 200 1544
+0:0:0:0:0:0:0:1 - - [29/Oct/2025:00:12:05 +0530] "GET /sms/delete?id=6 HTTP/1.1" 200 1319
+0:0:0:0:0:0:0:1 - - [29/Oct/2025:00:12:40 +0530] "GET /sms/update?id=6&name=naveen&email=naven%40gfmaa+&phoneno=9876543186 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [29/Oct/2025:00:12:52 +0530] "GET /sms/viewall HTTP/1.1" 200 1319
